@@ -1,0 +1,8 @@
+{
+  "name": "The Ink & Isles — Hashtag & Caption Library",
+  "description": "Social media caption and hashtag collection with topic-wise libraries and a complete hashtag page and content calendar builder for Instagram, Pinterest, and YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
